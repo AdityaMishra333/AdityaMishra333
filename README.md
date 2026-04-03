@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Aditya Mishra 👋
 
-<!--
-**AdityaMishra333/AdityaMishra333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (Backend Focused) | BCA @ Ewing Christian College
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Backend:** Express.js, MongoDB, Node.js
+- **Frontend:** React, JavaScript (ES6+), TailwindCSS, HTML5
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+- Cafe Website — Full stack app with auth (Express + MongoDB)
+- Currently exploring REST API design and backend architecture
+
+## 📫 Connect
+- Portfolio: https://adityamishra333.github.io/My-Portfolio-Responsive/
+- LinkedIn: https://www.linkedin.com/in/aditya-mishra-988b8034b
+- Email: adityamishra3337@gmail.com
