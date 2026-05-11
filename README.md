@@ -8,7 +8,7 @@ Full Stack Developer (Backend Focused) | BCA @ Ewing Christian College
 - **Tools:** Git, GitHub, VS Code
 
 ## 🚀 What I'm building
-- Cafe Website — Full stack app with auth (Express + MongoDB)
+- Food-Ordering-Platform — Full stack app with auth (Express + MongoDB), frontend with React
 - Currently exploring REST API design and backend architecture
 
 ## 📫 Connect
