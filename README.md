@@ -11,7 +11,7 @@ Full Stack Developer (Backend Focused) | BCA @ Ewing Christian College
 - Food-Ordering-Platform — Full stack app with auth (Express + MongoDB)
 - Currently exploring REST API design and backend architecture
 
-## 📫 Connect With-Me
+## 📫 Connect With Me
 - Portfolio: https://adityamishra333.github.io/My-Portfolio-Responsive/
 - LinkedIn: https://www.linkedin.com/in/aditya-mishra-988b8034b
 - Email: adityamishra3337@gmail.com
